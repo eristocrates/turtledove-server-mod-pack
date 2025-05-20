@@ -11,6 +11,10 @@ hash = "aade74980123d37176d7488197d4bba4399aba3e35cd78feb7a1041518238744"
 metafile = true
 
 [[files]]
+file = "mods/BeeFix-1.20-1.0.7.jar"
+hash = "5fa50cfbd0ee3d0472ba8e9162d40e9556ea930a6bbcf93de2ab751365b58566"
+
+[[files]]
 file = "mods/adaptive-performance-tweaks-core.pw.toml"
 hash = "1bcfa0dbbfaf6d02630aaf5f5abb244bc885766df811faea6114905b403e8717"
 metafile = true
@@ -691,6 +695,10 @@ hash = "119d501c87aef8afa8cf89ed6f17499518c21240d7781f4331e3007e57957a79"
 metafile = true
 
 [[files]]
+file = "mods/create_recycle_1.0.2_forge_1.20.1.jar"
+hash = "dbdf418ae63f929600784db71310ed80c7e7c30a60d1f3467dccb2a9d81caa52"
+
+[[files]]
 file = "mods/createaddition.pw.toml"
 hash = "efb00d657d22a7e560916ae2b7a2836f48586527a5ff40338af7e928472ef9da"
 metafile = true
@@ -874,6 +882,10 @@ metafile = true
 file = "mods/enemy-expansion.pw.toml"
 hash = "b3e6b4ed210fbe20ce46cab191cf76ea525be9f8cbffbf405c993688bf6d82a0"
 metafile = true
+
+[[files]]
+file = "mods/entityculling-forge-1.7.4-mc1.20.1.jar"
+hash = "0ccae2ab627bf863bfa5557403ad238fa4eb5986674d4bf8602d6ad231716068"
 
 [[files]]
 file = "mods/every-compat.pw.toml"
@@ -1221,6 +1233,11 @@ hash = "b720172434e663a1e7d87e0b3b14c0fcbd0032bb14b4ed1885f5c4b32614994f"
 metafile = true
 
 [[files]]
+file = "mods/lets-do-meadow.pw.toml"
+hash = "901dc04b960669a18e321a730891c0334efc0a6b0470593b671ce3874eaf8d1f"
+metafile = true
+
+[[files]]
 file = "mods/lets-do-nethervinery.pw.toml"
 hash = "1732f610ab70a4f3d374df771caa7cdfefa883c67e53706c174f045b0c2fac92"
 metafile = true
@@ -1436,6 +1453,10 @@ hash = "a1d3b1b3f1a9ec557cbe63ea70dfc6f7048312ae5f807a7f0ebaa3278dcef594"
 metafile = true
 
 [[files]]
+file = "mods/notenoughanimations-forge-1.9.3-mc1.20.1.jar"
+hash = "c2e0c9f70a33902ece8553053b8cedb31f6e3b972d612032ca0411a9901c151f"
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "f16fd7fba2242ba733897eeaaa09cb27e01a438d240e175a26c956319f8a1561"
 metafile = true
@@ -1463,6 +1484,11 @@ metafile = true
 [[files]]
 file = "mods/pams-harvestcraft-2-crops.pw.toml"
 hash = "58fa126079b9f120d9b70cc9676eda1fecbc515edd14123f57a88abd35645998"
+metafile = true
+
+[[files]]
+file = "mods/pams-harvestcraft-2-food-core.pw.toml"
+hash = "82da9f309f7f4a70cba7885bc52f0723137bb9925a62e545db07b95be65870a0"
 metafile = true
 
 [[files]]
@@ -1536,6 +1562,10 @@ hash = "8df897c0f7831e919aa528c3c1e5239f39439c123d99761230ab2357132bad98"
 metafile = true
 
 [[files]]
+file = "mods/quark_delight_1.0.0_forge_1.20.1.jar"
+hash = "1ca98c2776cbb0f4feb226d26adda6e393cb5a393d74b1397f4f2136e563193b"
+
+[[files]]
 file = "mods/radiant-gear.pw.toml"
 hash = "0769e162810d1d35105b3c777f8acdb52970b32f77da15d09c88c4e41eb2a3c4"
 metafile = true
@@ -1586,6 +1616,10 @@ hash = "ff629fa547da3fb7943cbf687a939fe3e7c4d43c7141b6fec180cfb45b35fddf"
 metafile = true
 
 [[files]]
+file = "mods/servercore-forge-1.5.2+1.20.1.jar"
+hash = "d9ad4f456b6c36bac17a71cd12935fdccae69ca1e1fcd33857210758cb58e586"
+
+[[files]]
 file = "mods/shield-expansion.pw.toml"
 hash = "dcf41b44fb2b0f4e393e2f9a41017aa9b10bd21e804b03218458a07ba70221ca"
 metafile = true
@@ -1604,6 +1638,10 @@ metafile = true
 file = "mods/simply-swords.pw.toml"
 hash = "e7b4f5d39d49d95fc3b11d7e39b29dc7206ef38274200f745912aae332d496e7"
 metafile = true
+
+[[files]]
+file = "mods/skinlayers3d-forge-1.7.5-mc1.20.1.jar"
+hash = "a0fa23c0043fa2750be8fd5b75bd046d8850e9dd03eef3142468868887d2ff5f"
 
 [[files]]
 file = "mods/sleep-tight.pw.toml"
