@@ -1724,6 +1724,11 @@ hash = "f647a2c2affa5d7de0f9584d4740bb204bc37e45a698e04f384e5973dd4933ea"
 metafile = true
 
 [[files]]
+file = "mods/structure-compass.pw.toml"
+hash = "b9ad26c80702e106bc562b4520cea4a279f89513327bc36b5819ecb05cc75e1c"
+metafile = true
+
+[[files]]
 file = "mods/structure-essentials-forge-fabric.pw.toml"
 hash = "753058a28cedf5e133a8cc5ad77fefb4f005298fb24923190841f7d0accac31a"
 metafile = true
