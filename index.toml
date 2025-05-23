@@ -381,7 +381,6 @@ metafile = true
 
 [[files]]
 file = "mods/convenient_curios_container.pw.toml"
-hash = "0f2e32ac7f5f2c05adc66d74fa5da3f3ba1eb0ff1d2982bff7ae2fe49e63d6fb"
 metafile = true
 
 [[files]]
@@ -1640,6 +1639,10 @@ hash = "e7b4f5d39d49d95fc3b11d7e39b29dc7206ef38274200f745912aae332d496e7"
 metafile = true
 
 [[files]]
+file = "mods/skillcloaks.pw.toml"
+metafile = true
+
+[[files]]
 file = "mods/skinlayers3d-forge-1.7.5-mc1.20.1.jar"
 hash = "a0fa23c0043fa2750be8fd5b75bd046d8850e9dd03eef3142468868887d2ff5f"
 
@@ -1756,6 +1759,10 @@ metafile = true
 [[files]]
 file = "mods/technobauble.pw.toml"
 hash = "c01d94876aa9229a128431e585fc4622217719708c68040a4c33002293a45b32"
+metafile = true
+
+[[files]]
+file = "mods/tenebrus-baubles.pw.toml"
 metafile = true
 
 [[files]]
