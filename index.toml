@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/physicsmod/physics_server_config.json"
+hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
+
+[[files]]
 file = "mods/3d-placeable-food.pw.toml"
 hash = "0235d8b48266be069ea73b6fe2a8dd79f11414d1b9be5120cb14db9eb4640475"
 metafile = true
@@ -381,6 +385,7 @@ metafile = true
 
 [[files]]
 file = "mods/convenient_curios_container.pw.toml"
+hash = "0f2e32ac7f5f2c05adc66d74fa5da3f3ba1eb0ff1d2982bff7ae2fe49e63d6fb"
 metafile = true
 
 [[files]]
@@ -1640,6 +1645,7 @@ metafile = true
 
 [[files]]
 file = "mods/skillcloaks.pw.toml"
+hash = "44628579deba76180454c86dcf8efa7bf68f7249cabaa969cb3dd604faf66f67"
 metafile = true
 
 [[files]]
@@ -1763,6 +1769,7 @@ metafile = true
 
 [[files]]
 file = "mods/tenebrus-baubles.pw.toml"
+hash = "fb092019c5817cf944fe2ad67be15b851cfa38e3f207c9715dfddc3b89514f11"
 metafile = true
 
 [[files]]
